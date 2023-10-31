@@ -1,0 +1,482 @@
+[
+  {
+    "id": "6283110928302@s.whatsapp.net",
+    "coin": 1180145,
+    "darah": 100,
+    "besi": 16,
+    "emas": -1,
+    "emerald": 9,
+    "umpan": 4,
+    "potion": 0
+  },
+  {
+    "id": "6285841235677@s.whatsapp.net",
+    "coin": 509500,
+    "darah": 80,
+    "besi": 3,
+    "emas": 12,
+    "emerald": 4,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6282184418576@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6282231763241@s.whatsapp.net",
+    "coin": 11000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6285289361631@s.whatsapp.net",
+    "coin": 970,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6287880195394@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6283809353806@s.whatsapp.net",
+    "coin": 10750,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6289618620166@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6281374955605@s.whatsapp.net",
+    "coin": 440,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6285925754910@s.whatsapp.net",
+    "coin": 10970,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6281368207929@s.whatsapp.net",
+    "coin": 440,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6285883359262@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6289530365066@s.whatsapp.net",
+    "coin": 910,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6285377880806@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6285709307326@s.whatsapp.net",
+    "coin": 10930,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "62895412835680@s.whatsapp.net",
+    "coin": 440,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6281379566367@s.whatsapp.net",
+    "coin": 960,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "62895621742359@s.whatsapp.net",
+    "coin": 990,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6282140436580@s.whatsapp.net",
+    "coin": null,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6283162946994@s.whatsapp.net",
+    "coin": 995,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6281366633875@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6283816099978@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6287857943770@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "628558718810@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6285692114469@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6281234987331@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6285217255512@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6282183567579@s.whatsapp.net",
+    "coin": 890,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6281243255495@s.whatsapp.net",
+    "coin": 995,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6285849261085@s.whatsapp.net",
+    "coin": 995,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6285738639969@s.whatsapp.net",
+    "coin": 990,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6285845318474@s.whatsapp.net",
+    "coin": 990,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6281256792189@s.whatsapp.net",
+    "coin": 970,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6283188392110@s.whatsapp.net",
+    "coin": 122470,
+    "darah": 40,
+    "besi": 6,
+    "emas": 7,
+    "emerald": 4,
+    "umpan": 5,
+    "potion": 100
+  },
+  {
+    "id": "62895622071224@s.whatsapp.net",
+    "coin": 5001900,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6283169751162@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6289653181676@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6281994943718@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6283195342121@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "628999699559@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6281555807465@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6285266291525@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6285173222764@s.whatsapp.net",
+    "coin": 990,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6288214772441@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6283102650464@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "6281327494954@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "62895394541973@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  },
+  {
+    "id": "62895321500962@s.whatsapp.net",
+    "coin": 1000,
+    "darah": 100,
+    "besi": 15,
+    "emas": 10,
+    "emerald": 5,
+    "umpan": 5,
+    "potion": 1
+  }
+]

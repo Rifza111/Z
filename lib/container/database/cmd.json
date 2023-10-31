@@ -1,0 +1,895 @@
+{
+  "total": 4444,
+  "cmd": [
+    {
+      "name": "menu",
+      "use": 285,
+      "times": "24/08 22:02:17"
+    },
+    {
+      "name": "s",
+      "use": 97,
+      "times": "24/08 15:03:19"
+    },
+    {
+      "name": "togif",
+      "use": 64,
+      "times": "29/07 11:46:01"
+    },
+    {
+      "name": "gpt",
+      "use": 1041,
+      "times": "24/08 22:02:17"
+    },
+    {
+      "name": "lokasi",
+      "use": 1,
+      "times": "14/07 10:42:52"
+    },
+    {
+      "name": "help",
+      "use": 6,
+      "times": "22/08 08:45:25"
+    },
+    {
+      "name": "ss",
+      "use": 30,
+      "times": "22/08 19:49:08"
+    },
+    {
+      "name": "ai",
+      "use": 104,
+      "times": "22/08 19:49:08"
+    },
+    {
+      "name": "toptv",
+      "use": 11,
+      "times": "10/08 05:31:05"
+    },
+    {
+      "name": "tiktok",
+      "use": 82,
+      "times": "24/08 15:03:19"
+    },
+    {
+      "name": "ytm4a",
+      "use": 27,
+      "times": "13/08 17:41:40"
+    },
+    {
+      "name": "ytmp3",
+      "use": 35,
+      "times": "21/08 23:11:35"
+    },
+    {
+      "name": "ytmp4",
+      "use": 60,
+      "times": "21/08 23:50:43"
+    },
+    {
+      "name": "threads",
+      "use": 19,
+      "times": "18/08 06:14:07"
+    },
+    {
+      "name": "dreamlike",
+      "use": 32,
+      "times": "23/07 02:16:45"
+    },
+    {
+      "name": "esrgan",
+      "use": 42,
+      "times": "19/08 10:18:06"
+    },
+    {
+      "name": "upscale",
+      "use": 19,
+      "times": "22/08 19:49:08"
+    },
+    {
+      "name": "protogen",
+      "use": 27,
+      "times": "10/08 05:31:05"
+    },
+    {
+      "name": "coin",
+      "use": 19,
+      "times": "21/08 23:11:35"
+    },
+    {
+      "name": "text2img",
+      "use": 8,
+      "times": "20/07 14:33:06"
+    },
+    {
+      "name": "shonins",
+      "use": 25,
+      "times": "04/08 05:46:29"
+    },
+    {
+      "name": "majicmixv4",
+      "use": 19,
+      "times": "06/08 17:00:23"
+    },
+    {
+      "name": "majicmix_realistic",
+      "use": 150,
+      "times": "11/08 21:46:40"
+    },
+    {
+      "name": "chilloutmix",
+      "use": 33,
+      "times": "23/08 18:23:12"
+    },
+    {
+      "name": "chilloumix_medusa",
+      "use": 1,
+      "times": "21/07 10:59:58"
+    },
+    {
+      "name": "chillotumix_medusa",
+      "use": 11,
+      "times": "21/07 11:21:29"
+    },
+    {
+      "name": "chilloutmix_medusa",
+      "use": 11,
+      "times": "06/08 20:50:37"
+    },
+    {
+      "name": "ghostshell",
+      "use": 24,
+      "times": "26/07 21:41:16"
+    },
+    {
+      "name": "realisianv4",
+      "use": 14,
+      "times": "06/08 20:50:37"
+    },
+    {
+      "name": "lyriel",
+      "use": 2,
+      "times": "23/07 10:47:53"
+    },
+    {
+      "name": "abyssorangemix3",
+      "use": 5,
+      "times": "22/07 22:25:13"
+    },
+    {
+      "name": "guofengrealmix",
+      "use": 12,
+      "times": "26/07 21:41:16"
+    },
+    {
+      "name": "mode",
+      "use": 6,
+      "times": "18/08 06:14:07"
+    },
+    {
+      "name": "anythingv5",
+      "use": 42,
+      "times": "06/08 20:50:37"
+    },
+    {
+      "name": "1pt",
+      "use": 17,
+      "times": "19/08 19:41:18"
+    },
+    {
+      "name": "yesmix",
+      "use": 9,
+      "times": "06/08 20:50:37"
+    },
+    {
+      "name": "ghostmix",
+      "use": 32,
+      "times": "06/08 20:50:37"
+    },
+    {
+      "name": "tiktokvoice",
+      "use": 16,
+      "times": "11/08 08:18:08"
+    },
+    {
+      "name": "tiktoktts",
+      "use": 25,
+      "times": "15/08 19:47:46"
+    },
+    {
+      "name": "meinamix",
+      "use": 10,
+      "times": "10/08 05:31:05"
+    },
+    {
+      "name": "majicmix_ashley",
+      "use": 25,
+      "times": "11/08 21:46:40"
+    },
+    {
+      "name": "qrai",
+      "use": 10,
+      "times": "27/07 11:48:39"
+    },
+    {
+      "name": "qraigenerator",
+      "use": 7,
+      "times": "27/07 11:48:39"
+    },
+    {
+      "name": "group",
+      "use": 14,
+      "times": "19/08 18:53:30"
+    },
+    {
+      "name": "majicmix_lux",
+      "use": 9,
+      "times": "26/07 10:31:29"
+    },
+    {
+      "name": "pinterestdl",
+      "use": 4,
+      "times": "22/08 17:20:12"
+    },
+    {
+      "name": "twitter",
+      "use": 25,
+      "times": "05/08 18:18:37"
+    },
+    {
+      "name": "ssweb",
+      "use": 12,
+      "times": "20/08 18:25:47"
+    },
+    {
+      "name": "aiimg",
+      "use": 256,
+      "times": "23/08 05:12:07"
+    },
+    {
+      "name": "aiimage",
+      "use": 1,
+      "times": "27/07 21:39:21"
+    },
+    {
+      "name": "sticker",
+      "use": 97,
+      "times": "24/08 15:03:19"
+    },
+    {
+      "name": "majicmix_xuner",
+      "use": 74,
+      "times": "23/08 18:23:12"
+    },
+    {
+      "name": "shiseido",
+      "use": 4,
+      "times": "28/07 17:40:32"
+    },
+    {
+      "name": "cyber_realistic",
+      "use": 2,
+      "times": "28/07 17:40:32"
+    },
+    {
+      "name": "realesrgan",
+      "use": 10,
+      "times": "06/08 20:50:37"
+    },
+    {
+      "name": "vocalremover",
+      "use": 37,
+      "times": "24/08 06:51:54"
+    },
+    {
+      "name": "lisa",
+      "use": 10,
+      "times": "04/08 05:46:29"
+    },
+    {
+      "name": "nicholas",
+      "use": 2,
+      "times": "07/08 13:13:29"
+    },
+    {
+      "name": "ardi",
+      "use": 28,
+      "times": "21/08 07:43:39"
+    },
+    {
+      "name": "majicmix_sombre",
+      "use": 13,
+      "times": "19/08 10:18:06"
+    },
+    {
+      "name": "tendou_alice",
+      "use": 16,
+      "times": "11/08 08:18:08"
+    },
+    {
+      "name": "shirasu_azusa",
+      "use": 4,
+      "times": "11/08 08:18:08"
+    },
+    {
+      "name": "hutao",
+      "use": 21,
+      "times": "21/08 08:56:33"
+    },
+    {
+      "name": "ganyu",
+      "use": 3,
+      "times": "04/08 05:46:29"
+    },
+    {
+      "name": "surya",
+      "use": 1,
+      "times": "04/08 05:46:29"
+    },
+    {
+      "name": "raidenshogun",
+      "use": 1,
+      "times": "04/08 05:46:29"
+    },
+    {
+      "name": "downvid",
+      "use": 16,
+      "times": "21/08 15:12:02"
+    },
+    {
+      "name": "xsmixv0",
+      "use": 2,
+      "times": "06/08 17:00:23"
+    },
+    {
+      "name": "dimas",
+      "use": 3,
+      "times": "06/08 20:50:37"
+    },
+    {
+      "name": "keqing",
+      "use": 2,
+      "times": "06/08 20:50:37"
+    },
+    {
+      "name": "addcoowner",
+      "use": 24,
+      "times": "14/08 18:39:06"
+    },
+    {
+      "name": "zhongli",
+      "use": 1,
+      "times": "07/08 13:13:29"
+    },
+    {
+      "name": "manhattancafe",
+      "use": 1,
+      "times": "07/08 13:13:29"
+    },
+    {
+      "name": "opera",
+      "use": 1,
+      "times": "07/08 13:13:29"
+    },
+    {
+      "name": "mattias",
+      "use": 3,
+      "times": "07/08 13:13:29"
+    },
+    {
+      "name": "daichi",
+      "use": 5,
+      "times": "07/08 13:13:29"
+    },
+    {
+      "name": "joseph",
+      "use": 2,
+      "times": "23/08 09:21:13"
+    },
+    {
+      "name": "lukas",
+      "use": 1,
+      "times": "07/08 13:13:29"
+    },
+    {
+      "name": "lisandro",
+      "use": 3,
+      "times": "07/08 13:13:29"
+    },
+    {
+      "name": "yesui",
+      "use": 1,
+      "times": "07/08 13:13:29"
+    },
+    {
+      "name": "ttsmaker",
+      "use": 12,
+      "times": "22/08 19:49:08"
+    },
+    {
+      "name": "gunnar",
+      "use": 1,
+      "times": "07/08 13:13:29"
+    },
+    {
+      "name": "maarten",
+      "use": 2,
+      "times": "07/08 13:13:29"
+    },
+    {
+      "name": "playermale",
+      "use": 1,
+      "times": "07/08 13:13:29"
+    },
+    {
+      "name": "winningticket",
+      "use": 2,
+      "times": "07/08 13:13:29"
+    },
+    {
+      "name": "surah",
+      "use": 32,
+      "times": "24/08 09:56:38"
+    },
+    {
+      "name": "qiqi",
+      "use": 2,
+      "times": "08/08 16:41:51"
+    },
+    {
+      "name": "xiaoyan",
+      "use": 1,
+      "times": "09/08 05:44:23"
+    },
+    {
+      "name": "anythingv4",
+      "use": 2,
+      "times": "09/08 19:03:33"
+    },
+    {
+      "name": "videodl",
+      "use": 11,
+      "times": "11/08 21:46:40"
+    },
+    {
+      "name": "jam",
+      "use": 14,
+      "times": "22/08 17:20:12"
+    },
+    {
+      "name": "transcribe",
+      "use": 3,
+      "times": "10/08 05:31:05"
+    },
+    {
+      "name": "instagram",
+      "use": 4,
+      "times": "09/08 23:13:22"
+    },
+    {
+      "name": "igdl",
+      "use": 4,
+      "times": "22/08 19:49:08"
+    },
+    {
+      "name": "delcoowner",
+      "use": 9,
+      "times": "19/08 00:15:47"
+    },
+    {
+      "name": "animegenerator",
+      "use": 7,
+      "times": "10/08 05:31:05"
+    },
+    {
+      "name": "prem",
+      "use": 1,
+      "times": "10/08 05:31:05"
+    },
+    {
+      "name": "speech",
+      "use": 2,
+      "times": "10/08 05:31:05"
+    },
+    {
+      "name": "setcmd",
+      "use": 23,
+      "times": "19/08 00:15:47"
+    },
+    {
+      "name": "delcmd",
+      "use": 16,
+      "times": "16/08 22:52:20"
+    },
+    {
+      "name": "listcmd",
+      "use": 12,
+      "times": "14/08 18:39:06"
+    },
+    {
+      "name": "premium",
+      "use": 1,
+      "times": "10/08 21:37:04"
+    },
+    {
+      "name": "kuda_izuna",
+      "use": 1,
+      "times": "10/08 22:30:31"
+    },
+    {
+      "name": "hayase_yuuka",
+      "use": 4,
+      "times": "10/08 22:54:45"
+    },
+    {
+      "name": "fishl",
+      "use": 2,
+      "times": "11/08 08:18:08"
+    },
+    {
+      "name": "audiototext",
+      "use": 2,
+      "times": "21/08 07:43:39"
+    },
+    {
+      "name": "whisper",
+      "use": 6,
+      "times": "14/08 18:39:06"
+    },
+    {
+      "name": "setpp",
+      "use": 2,
+      "times": "14/08 18:39:06"
+    },
+    {
+      "name": "setthumb",
+      "use": 5,
+      "times": "14/08 18:39:06"
+    },
+    {
+      "name": "uber_realistic_porn",
+      "use": 1,
+      "times": "14/08 18:39:06"
+    },
+    {
+      "name": "jean",
+      "use": 1,
+      "times": "14/08 18:39:06"
+    },
+    {
+      "name": "getquoted",
+      "use": 19,
+      "times": "18/08 06:14:07"
+    },
+    {
+      "name": "addwork",
+      "use": 91,
+      "times": "23/08 22:36:23"
+    },
+    {
+      "name": "swm",
+      "use": 7,
+      "times": "15/08 19:47:46"
+    },
+    {
+      "name": "colong",
+      "use": 3,
+      "times": "15/08 19:47:46"
+    },
+    {
+      "name": "bass",
+      "use": 12,
+      "times": "21/08 08:56:33"
+    },
+    {
+      "name": "volume",
+      "use": 23,
+      "times": "19/08 10:18:06"
+    },
+    {
+      "name": "create_engine",
+      "use": 7,
+      "times": "15/08 20:50:10"
+    },
+    {
+      "name": "slot",
+      "use": 603,
+      "times": "22/08 08:45:25"
+    },
+    {
+      "name": "tf",
+      "use": 13,
+      "times": "19/08 00:15:47"
+    },
+    {
+      "name": "transfer",
+      "use": 2,
+      "times": "16/08 06:25:00"
+    },
+    {
+      "name": "addengine",
+      "use": 16,
+      "times": "23/08 18:23:12"
+    },
+    {
+      "name": "megatts",
+      "use": 20,
+      "times": "23/08 18:23:12"
+    },
+    {
+      "name": "videodownloader",
+      "use": 2,
+      "times": "21/08 08:56:33"
+    },
+    {
+      "name": "koin",
+      "use": 1,
+      "times": "18/08 20:52:47"
+    },
+    {
+      "name": "ytaudio",
+      "use": 3,
+      "times": "19/08 00:15:47"
+    },
+    {
+      "name": "aoi",
+      "use": 1,
+      "times": "19/08 00:15:47"
+    },
+    {
+      "name": "saiba_momoi",
+      "use": 2,
+      "times": "19/08 00:15:47"
+    },
+    {
+      "name": "elsa",
+      "use": 1,
+      "times": "19/08 00:15:47"
+    },
+    {
+      "name": "bard",
+      "use": 35,
+      "times": "24/08 22:02:17"
+    },
+    {
+      "name": "slot2",
+      "use": 7,
+      "times": "22/08 17:20:12"
+    },
+    {
+      "name": "tokaiteio",
+      "use": 2,
+      "times": "21/08 08:56:33"
+    },
+    {
+      "name": "kick",
+      "use": 10,
+      "times": "22/08 17:20:12"
+    },
+    {
+      "name": "tozombie",
+      "use": 15,
+      "times": "23/08 22:36:23"
+    },
+    {
+      "name": "ghstalk",
+      "use": 1,
+      "times": "23/08 21:13:26"
+    },
+    {
+      "name": "githubstalk",
+      "use": 6,
+      "times": "23/08 21:13:26"
+    },
+    {
+      "name": "absen",
+      "use": 17,
+      "times": "23/08 22:36:23"
+    },
+    {
+      "name": "tes",
+      "use": 113,
+      "times": "03/10 12:10:53"
+    },
+    {
+      "name": "tebakgambar",
+      "use": 19,
+      "times": "04/10 07:31:54"
+    },
+    {
+      "name": "getpp",
+      "use": 17,
+      "times": "25/09 22:29:51"
+    },
+    {
+      "name": "grup",
+      "use": 3,
+      "times": "25/09 22:29:51"
+    },
+    {
+      "name": "diluc",
+      "use": 2,
+      "times": "12/09 20:46:20"
+    },
+    {
+      "name": "tourl",
+      "use": 4,
+      "times": "17/09 09:05:53"
+    },
+    {
+      "name": "enhance",
+      "use": 15,
+      "times": "21/09 20:45:21"
+    },
+    {
+      "name": "take",
+      "use": 4,
+      "times": "21/09 20:15:41"
+    },
+    {
+      "name": "info",
+      "use": 6,
+      "times": "25/09 15:59:29"
+    },
+    {
+      "name": "toimg",
+      "use": 40,
+      "times": "07/10 07:08:28"
+    },
+    {
+      "name": "mining",
+      "use": 77,
+      "times": "07/10 07:08:28"
+    },
+    {
+      "name": "opentime",
+      "use": 3,
+      "times": "25/09 21:49:10"
+    },
+    {
+      "name": "runtime",
+      "use": 1,
+      "times": "15/09 07:02:27"
+    },
+    {
+      "name": "jual",
+      "use": 64,
+      "times": "27/09 07:30:41"
+    },
+    {
+      "name": "sell",
+      "use": 1,
+      "times": "15/09 20:45:12"
+    },
+    {
+      "name": "inventory",
+      "use": 14,
+      "times": "07/10 07:08:28"
+    },
+    {
+      "name": "profile",
+      "use": 5,
+      "times": "16/09 20:39:41"
+    },
+    {
+      "name": "reminder",
+      "use": 1,
+      "times": "15/09 21:13:38"
+    },
+    {
+      "name": "faceanimate",
+      "use": 27,
+      "times": "26/09 07:08:16"
+    },
+    {
+      "name": "animateface",
+      "use": 5,
+      "times": "27/09 07:30:41"
+    },
+    {
+      "name": "photorestore",
+      "use": 2,
+      "times": "17/09 09:05:53"
+    },
+    {
+      "name": "face_enhance",
+      "use": 3,
+      "times": "17/09 16:40:18"
+    },
+    {
+      "name": "diego",
+      "use": 2,
+      "times": "17/09 16:40:18"
+    },
+    {
+      "name": "tebakkata",
+      "use": 28,
+      "times": "27/09 07:30:41"
+    },
+    {
+      "name": "ping",
+      "use": 3,
+      "times": "29/09 07:59:56"
+    },
+    {
+      "name": "colirize",
+      "use": 2,
+      "times": "18/09 07:03:24"
+    },
+    {
+      "name": "stablediffusion",
+      "use": 7,
+      "times": "20/09 19:20:57"
+    },
+    {
+      "name": "textremoval",
+      "use": 20,
+      "times": "23/09 07:05:55"
+    },
+    {
+      "name": "removetext",
+      "use": 2,
+      "times": "01/10 15:04:52"
+    },
+    {
+      "name": "editbackground",
+      "use": 101,
+      "times": "25/09 07:00:57"
+    },
+    {
+      "name": "delete",
+      "use": 2,
+      "times": "21/09 20:15:41"
+    },
+    {
+      "name": "heal",
+      "use": 21,
+      "times": "27/09 07:30:41"
+    },
+    {
+      "name": "ingatkan",
+      "use": 2,
+      "times": "21/09 20:15:41"
+    },
+    {
+      "name": "night_sky",
+      "use": 1,
+      "times": "21/09 20:15:41"
+    },
+    {
+      "name": "beli",
+      "use": 8,
+      "times": "26/09 07:08:16"
+    },
+    {
+      "name": "buy",
+      "use": 9,
+      "times": "25/09 07:00:57"
+    },
+    {
+      "name": "editbg",
+      "use": 9,
+      "times": "25/09 07:00:57"
+    },
+    {
+      "name": "ringkas",
+      "use": 1,
+      "times": "25/09 22:29:51"
+    },
+    {
+      "name": "babes",
+      "use": 1,
+      "times": "26/09 07:08:16"
+    },
+    {
+      "name": "removewm",
+      "use": 1,
+      "times": "01/10 20:55:36"
+    },
+    {
+      "name": "googlebard",
+      "use": 1,
+      "times": "07/10 07:08:28"
+    }
+  ]
+}

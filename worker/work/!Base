@@ -1,0 +1,28 @@
+module.exports = {
+	order: [' '],
+	tags: ' ',
+	command: [' '],
+	maintenance: false,
+	owner: false,
+	co_owner: false,
+	group: false,
+	groupAdmins: false,
+	botGroupAdmins: false,
+	quotedVideo: false, //quotedVideo: "pesannya"
+	quotedImage: false,  //quotedImage: "pesannya"
+	quotedAudio: false,  //quotedAudio: "pesannya"
+	premium: false,  //true/false
+	coin: false, //coin: "normal"
+	quoted: false, //quoted: "pesannya"
+	quotedSticker: false, //quotedSticker: "pesannya"
+	quotedStickerVideo: false, //quotedStickerVideo: "pesannya"
+	quotedUrl: false,
+	exec: async (msg, client, from, {
+		q,
+		args,
+		order,
+		prefix
+	}) => {
+	
+	}
+}
